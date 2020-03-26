@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-plugin-glossary",
+  "version": "1.0.1",
+  "description": "Glossary and term linking plugin for Vuepress",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-it-regexp": "^0.4.0"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "vuepress",
+    "vue",
+    "glossary",
+    "documentation",
+    "markdown"
+  ],
+  "license": "MIT"
+}
